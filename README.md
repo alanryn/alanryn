@@ -1,5 +1,5 @@
 ### Hi 👋
 
-- I’m currently working on all things Shopify
-- Especially learning about GraphQL and Shopiy APIs
+- I’m currently working as a Shopify developer
+- Especially interested in gsap, css, svg and image optimization
 
